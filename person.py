@@ -11,7 +11,6 @@ class Person:
         print("Name  :", self.name)
         print("Age   :", self.age)
 
-
 p1 = Person()
 p2 = Person()
 p3 = Person()
